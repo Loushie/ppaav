@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-//Master
+//1Master
 namespace EksamensProjekt20
 {
     /// <summary>
