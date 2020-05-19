@@ -21,3 +21,26 @@ C:\Users\Jokkefu\OneDrive - EaDania\EksamensProjekt20\ppaav\EksamensProjekt20\ob
 C:\Users\Jokkefu\OneDrive - EaDania\EksamensProjekt20\ppaav\EksamensProjekt20\obj\x86\Debug\EksamensProjekt20.csproj.CopyComplete
 C:\Users\Jokkefu\OneDrive - EaDania\EksamensProjekt20\ppaav\EksamensProjekt20\obj\x86\Debug\EksamensProjekt20.exe
 C:\Users\Jokkefu\OneDrive - EaDania\EksamensProjekt20\ppaav\EksamensProjekt20\obj\x86\Debug\EksamensProjekt20.pdb
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\EksamensProjekt20.exe
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\EksamensProjekt20.pdb
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\SharpDX.dll
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\SharpDX.xml
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\obj\x86\Debug\EksamensProjekt20.csprojResolveAssemblyReference.cache
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\obj\x86\Debug\EksamensProjekt20.csproj.CoreCompileInputs.cache
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\obj\x86\Debug\EksamensProjekt20.csproj.CopyComplete
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\obj\x86\Debug\EksamensProjekt20.exe
+C:\Skole\eksamensprojekt20\ppaav\EksamensProjekt20\obj\x86\Debug\EksamensProjekt20.pdb
